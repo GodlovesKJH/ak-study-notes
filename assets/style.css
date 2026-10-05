@@ -27,6 +27,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--teal);outline-offse
 .track span.now{background:var(--teal);box-shadow:0 0 0 2px var(--teal-soft)}
 .tracklabel{font-size:13px;color:var(--muted)}
 .layout{display:grid;grid-template-columns:220px minmax(0,1fr);gap:48px;padding:16px 0 80px}
+.layout>*{min-width:0}
 .toc{position:sticky;top:20px;align-self:start;font-size:14px;border-left:2px solid var(--line);padding-left:14px}
 .toc a{display:block;color:var(--muted);text-decoration:none;padding:3px 0}
 .toc a:hover{color:var(--teal)}
@@ -39,6 +40,11 @@ article ul,article ol{padding-left:1.4em}
 table{border-collapse:collapse;width:100%;font-size:15px}
 th,td{border-bottom:1px solid var(--line);padding:9px 10px;text-align:left;vertical-align:top}
 th{font-weight:600;background:var(--teal-soft)}
+article h3{font-family:var(--serif);font-size:18px;line-height:1.45;margin:36px 0 10px}
+article p:has(>img){overflow-x:auto;margin:8px 0 14px}
+article img{display:block;width:100%;min-width:600px;height:auto;border:1px solid var(--line);border-radius:6px}
+article blockquote{margin:16px 0;padding:6px 16px;border-left:4px solid var(--teal);background:var(--teal-soft);border-radius:0 6px 6px 0}
+article blockquote p{margin:6px 0}
 pre.mermaid{background:transparent;text-align:center;overflow-x:auto;margin:20px 0}
 section.critical{background:var(--ochre-soft);border-left:4px solid var(--ochre);padding:4px 20px 8px;margin-top:56px;border-radius:0 6px 6px 0}
 section.critical h2{border-top:0;color:var(--ochre);margin-top:16px}
