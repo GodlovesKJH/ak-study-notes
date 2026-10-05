@@ -47,7 +47,7 @@ for path in sorted(glob.glob("notes/*.md")):
         + f'<header class="hero"><p class="num">제{n}강</p><h1>{meta["title"]}</h1><p>{meta["summary"]}</p>'
         + track(n) + f'<div class="tracklabel">12강 중 {n}강 · 정리 {meta["date"]}</div></header>'
         + f'<div class="layout"><nav class="toc" aria-label="목차">{tochtml}</nav><article>{body}</article></div>'
-        + '<footer>고성윤 · AK 자연치유센터 강의 원고와 녹취를 바탕으로 개인 학습용으로 정리했습니다. 의학적 진단·치료를 대신하지 않습니다.</footer></div>'
+        + '<footer>강의 원고와 녹취를 바탕으로 한 개인 학습용 비공식 정리입니다. 특정 기관·강사의 공식 자료가 아니며 의학적 진단·치료를 대신하지 않습니다.</footer></div>'
         + MERMAID + "</body></html>")
     os.makedirs("lectures", exist_ok=True)
     open(f"lectures/{n:02d}.html", "w", encoding="utf-8").write(page)
@@ -63,10 +63,10 @@ for i in range(1, TOTAL + 1):
         items += f'<li class="todo"><div class="n">{i}</div><div><div class="t">{PLAN.get(i, "예정")}</div><div class="s">아직 정리 전</div></div></li>'
 index = (head("AK 자연치유요법 학습노트", "assets/style.css")
     + '<div class="wrap"><header class="hero"><p class="num">AK</p><h1>자연치유요법 12주 학습노트</h1>'
-    + '<p>고성윤 · AK 자연치유센터 강의를 회차별로 정리합니다.</p>'
+    + '<p>수강 중인 AK 자연치유요법 12주 과정을 회차별로 정리합니다.</p>'
     + '<div class="track" aria-hidden="true">' + "".join(f'<span class="{"done" if i in done else ""}"></span>' for i in range(1, TOTAL + 1)) + '</div>'
     + f'<div class="tracklabel">{len(done)} / {TOTAL}강 정리됨</div></header>'
     + f'<ol class="course">{items}</ol>'
-    + '<footer>개인 학습용 정리입니다. 의학적 진단·치료를 대신하지 않습니다.</footer></div></body></html>')
+    + '<footer>개인 학습용 비공식 정리입니다. 의학적 진단·치료를 대신하지 않습니다.</footer></div></body></html>')
 open("index.html", "w", encoding="utf-8").write(index)
 print("built", [n for n, _ in notes])
