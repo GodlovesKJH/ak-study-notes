@@ -53,6 +53,20 @@ for path in sorted(glob.glob("notes/*.md")):
     open(f"lectures/{n:02d}.html", "w", encoding="utf-8").write(page)
     notes.append((n, meta))
 
+# 보조 자료(쉬운 설명): notes/sub/*.md -> lectures/<slug>.html, 본문에서 링크로 연결
+for path in sorted(glob.glob("notes/sub/*.md")):
+    meta, md = parse(path)
+    n = int(meta["parent"])
+    body, toc = render(md)
+    tochtml = "".join(f'<a href="#{i}">{re.sub("<.*?>", "", t)}</a>' for i, t in toc)
+    page = (head(f'{meta["title"]} — AK 학습노트', "../assets/style.css")
+        + f'<div class="wrap"><nav class="top"><a href="{n:02d}.html#{meta["back"]}">← 제{n}강 본문으로 돌아가기</a></nav>'
+        + f'<header class="hero"><p class="num">제{n}강 보조 자료</p><h1>{meta["title"]}</h1><p>{meta["summary"]}</p>'
+        + f'<div class="tracklabel">정리 {meta["date"]}</div></header>'
+        + f'<div class="layout"><nav class="toc" aria-label="목차">{tochtml}</nav><article>{body}</article></div>'
+        + '<footer>강의 원고와 녹취를 바탕으로 한 개인 학습용 비공식 정리입니다. 특정 기관·강사의 공식 자료가 아니며 의학적 진단·치료를 대신하지 않습니다.</footer></div></body></html>')
+    open(f'lectures/{meta["slug"]}.html', "w", encoding="utf-8").write(page)
+
 done = {n: m for n, m in notes}
 items = ""
 for i in range(1, TOTAL + 1):
