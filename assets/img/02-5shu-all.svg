@@ -1,0 +1,833 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 2405" width="3000" height="2405" role="img" aria-label="12경맥 오수혈 한눈에 보기">
+<title>12경맥 오수혈 한눈에 보기</title>
+<style>text{font-family:'Noto Sans CJK KR','Noto Sans KR','Apple SD Gothic Neo','Malgun Gothic',sans-serif;fill:#1d2a33}
+.e{fill:#8A6B55;stroke:#8A6B55;stroke-linecap:round;stroke-linejoin:round}.s{fill:#F4E6D8;stroke:#F4E6D8;stroke-linecap:round;stroke-linejoin:round}
+.cr{fill:none;stroke:#C4A68E;stroke-width:1.6;stroke-linecap:round}.ds{stroke-dasharray:4 4}
+.cp{fill:#FAFAF7;stroke:#C9D3D8}.ct{font-size:15px;fill:#5b6870}
+.mk{stroke:#fff;stroke-width:2.5}.mt{font-weight:700;fill:#fff;text-anchor:middle}
+.bk{fill:#fff;stroke:#E3E9EC;stroke-width:2}
+.h1{font-size:54px;font-weight:700}.lead{font-size:24px;fill:#4a5961}
+.h2{font-size:30px;font-weight:700}.h2s{font-size:19px;fill:#5b6870}
+.hd{font-size:23px;font-weight:700;text-anchor:middle}.hs{font-size:15px;text-anchor:middle}
+.nc{fill:#EEF2F4}.nb{font-size:17px;font-weight:700;fill:#fff;text-anchor:middle}.nt{font-size:27px;font-weight:700}
+.el{font-size:27px;font-weight:700;text-anchor:middle}
+.cn{font-size:30px;font-weight:700}.cc{font-size:17px;fill:#5b6870}.cd{font-size:20px;fill:#3d4b53}
+.ft{font-size:17px;fill:#6b777e}</style>
+<defs>
+<g id="arm_v">
+<path class="e" stroke-width="3" d="M-48 0L-50 70C-48 150 -38 250 -32 330C-52 350 -54 395 -46 424L40 424C44 395 38 350 32 330C38 250 48 150 50 70L48 0Z"/>
+<path class="e" fill="none" stroke-width="22" d="M-31 424L-33 498"/>
+<path class="e" fill="none" stroke-width="22" d="M-10 424L-10 508"/>
+<path class="e" fill="none" stroke-width="22" d="M11 424L13 500"/>
+<path class="e" fill="none" stroke-width="22" d="M31 424L36 480"/>
+<path class="e" fill="none" stroke-width="24" d="M-38 352L-76 426"/>
+<path class="s" stroke-width="0.6" d="M-48 0L-50 70C-48 150 -38 250 -32 330C-52 350 -54 395 -46 424L40 424C44 395 38 350 32 330C38 250 48 150 50 70L48 0Z"/>
+<path class="s" fill="none" stroke-width="19" d="M-31 424L-33 498"/>
+<path class="s" fill="none" stroke-width="19" d="M-10 424L-10 508"/>
+<path class="s" fill="none" stroke-width="19" d="M11 424L13 500"/>
+<path class="s" fill="none" stroke-width="19" d="M31 424L36 480"/>
+<path class="s" fill="none" stroke-width="21" d="M-38 352L-76 426"/>
+<path class="cr" d="M-47 70Q0 78 47 70"/>
+<path class="cr" d="M-31 330Q0 337 31 330"/>
+<path class="cr" d="M-30 346C-12 374 -16 400 -22 420"/>
+<path class="cr" d="M-34 410Q2 398 38 410"/>
+<path class="cr" d="M-37 440L-25 440"/>
+<path class="cr" d="M-16 440L-4 440"/>
+<path class="cr" d="M5 440L17 440"/>
+<path class="cr" d="M25 440L37 440"/>
+</g>
+<g id="arm_d">
+<path class="e" stroke-width="3" d="M-48 0L-50 70C-48 150 -38 250 -32 330C-52 350 -54 395 -46 424L40 424C44 395 38 350 32 330C38 250 48 150 50 70L48 0Z"/>
+<path class="e" fill="none" stroke-width="22" d="M-31 424L-33 498"/>
+<path class="e" fill="none" stroke-width="22" d="M-10 424L-10 508"/>
+<path class="e" fill="none" stroke-width="22" d="M11 424L13 500"/>
+<path class="e" fill="none" stroke-width="22" d="M31 424L36 480"/>
+<path class="e" fill="none" stroke-width="24" d="M-38 352L-76 426"/>
+<path class="s" stroke-width="0.6" d="M-48 0L-50 70C-48 150 -38 250 -32 330C-52 350 -54 395 -46 424L40 424C44 395 38 350 32 330C38 250 48 150 50 70L48 0Z"/>
+<path class="s" fill="none" stroke-width="19" d="M-31 424L-33 498"/>
+<path class="s" fill="none" stroke-width="19" d="M-10 424L-10 508"/>
+<path class="s" fill="none" stroke-width="19" d="M11 424L13 500"/>
+<path class="s" fill="none" stroke-width="19" d="M31 424L36 480"/>
+<path class="s" fill="none" stroke-width="21" d="M-38 352L-76 426"/>
+<ellipse class="cr" cx="-33" cy="489" rx="6.5" ry="8"/>
+<circle class="cr" cx="-31" cy="422" r="4"/>
+<ellipse class="cr" cx="-10" cy="499" rx="6.5" ry="8"/>
+<circle class="cr" cx="-10" cy="422" r="4"/>
+<ellipse class="cr" cx="13" cy="491" rx="6.5" ry="8"/>
+<circle class="cr" cx="11" cy="422" r="4"/>
+<ellipse class="cr" cx="36" cy="471" rx="6.5" ry="8"/>
+<circle class="cr" cx="31" cy="422" r="4"/>
+<ellipse class="cr" cx="-75" cy="418" rx="6.5" ry="8" transform="rotate(-30 -75 418)"/>
+<circle class="cr" cx="12" cy="76" r="10"/>
+<circle class="cr" cx="45" cy="76" r="6"/>
+<circle class="cr" cx="-45" cy="76" r="6"/>
+</g>
+<g id="ant">
+<path class="e" stroke-width="3" d="M106 -20C108 100 130 260 148 380C140 420 118 460 112 505L245 505C246 470 240 420 236 380C242 280 264 100 270 -20Z"/>
+<path class="e" fill="none" stroke-width="29" d="M222 505L224 556"/>
+<path class="e" fill="none" stroke-width="22" d="M192 505L192 566"/>
+<path class="e" fill="none" stroke-width="20" d="M169 505L168 556"/>
+<path class="e" fill="none" stroke-width="19" d="M149 505L147 540"/>
+<path class="e" fill="none" stroke-width="18" d="M130 505L126 522"/>
+<path class="s" stroke-width="0.6" d="M106 -20C108 100 130 260 148 380C140 420 118 460 112 505L245 505C246 470 240 420 236 380C242 280 264 100 270 -20Z"/>
+<path class="s" fill="none" stroke-width="26" d="M222 505L224 556"/>
+<path class="s" fill="none" stroke-width="19" d="M192 505L192 566"/>
+<path class="s" fill="none" stroke-width="17" d="M169 505L168 556"/>
+<path class="s" fill="none" stroke-width="16" d="M149 505L147 540"/>
+<path class="s" fill="none" stroke-width="15" d="M130 505L126 522"/>
+<circle class="cr" cx="190" cy="10" r="25"/>
+<path class="cr ds" d="M189 40L193 380"/>
+<circle class="cr" cx="144" cy="396" r="11"/>
+<circle class="cr" cx="240" cy="384" r="11"/>
+<path class="cr" d="M150 392Q192 400 232 390"/>
+<ellipse class="cr" cx="224" cy="548" rx="10" ry="6"/>
+<ellipse class="cr" cx="192" cy="558" rx="6.5" ry="6"/>
+<ellipse class="cr" cx="168" cy="548" rx="5.5" ry="6"/>
+<ellipse class="cr" cx="147" cy="532" rx="5" ry="6"/>
+<ellipse class="cr" cx="126" cy="514" rx="4.5" ry="6"/>
+</g>
+<g id="med">
+<path class="e" stroke-width="3" d="M128 -20L132 60C136 160 142 280 150 380C130 395 95 415 60 430C40 436 28 446 32 458C36 468 60 470 90 468L205 462C232 460 242 440 236 420C232 405 214 392 208 378C212 330 252 250 262 160C268 100 262 50 258 -20Z"/>
+<path class="s" stroke-width="0.6" d="M128 -20L132 60C136 160 142 280 150 380C130 395 95 415 60 430C40 436 28 446 32 458C36 468 60 470 90 468L205 462C232 460 242 440 236 420C232 405 214 392 208 378C212 330 252 250 262 160C268 100 262 50 258 -20Z"/>
+<path class="cr" d="M60 432C75 428 90 428 104 432"/>
+<circle class="cr" cx="172" cy="392" r="15"/>
+<circle class="cr" cx="118" cy="424" r="5"/>
+<circle class="cr" cx="190" cy="34" r="21"/>
+<ellipse class="cr" cx="44" cy="446" rx="7" ry="4.5"/>
+<path class="cr" d="M208 378C214 395 214 405 210 418"/>
+</g>
+<g id="lat">
+<path class="e" stroke-width="3" d="M128 -20L132 60C136 160 142 280 150 380C130 395 95 415 60 430C40 436 28 446 32 458C36 468 60 470 90 468L205 462C232 460 242 440 236 420C232 405 214 392 208 378C212 330 252 250 262 160C268 100 262 50 258 -20Z"/>
+<path class="e" fill="none" stroke-width="16" d="M96 450L64 465"/>
+<path class="s" stroke-width="0.6" d="M128 -20L132 60C136 160 142 280 150 380C130 395 95 415 60 430C40 436 28 446 32 458C36 468 60 470 90 468L205 462C232 460 242 440 236 420C232 405 214 392 208 378C212 330 252 250 262 160C268 100 262 50 258 -20Z"/>
+<path class="s" fill="none" stroke-width="13" d="M96 450L64 465"/>
+<path class="cr" d="M60 432C75 428 90 428 104 432"/>
+<circle class="cr" cx="184" cy="404" r="14"/>
+<ellipse class="cr" cx="66" cy="456" rx="5" ry="3.5"/>
+<path class="cr" d="M212 378C212 395 210 405 206 418"/>
+</g>
+<g id="sole">
+<path class="e" stroke-width="3" d="M-32 26C-38 70 -28 120 -22 152C-16 178 16 178 22 152C30 120 38 70 34 32Z"/>
+<path class="e" fill="none" stroke-width="23" d="M-20 14L-20 14"/>
+<path class="e" fill="none" stroke-width="18" d="M-3 4L-3 4"/>
+<path class="e" fill="none" stroke-width="17" d="M11 8L11 8"/>
+<path class="e" fill="none" stroke-width="16" d="M22 17L22 17"/>
+<path class="e" fill="none" stroke-width="15" d="M31 28L31 28"/>
+<path class="s" stroke-width="0.6" d="M-32 26C-38 70 -28 120 -22 152C-16 178 16 178 22 152C30 120 38 70 34 32Z"/>
+<path class="s" fill="none" stroke-width="20" d="M-20 14L-20 14"/>
+<path class="s" fill="none" stroke-width="15" d="M-3 4L-3 4"/>
+<path class="s" fill="none" stroke-width="14" d="M11 8L11 8"/>
+<path class="s" fill="none" stroke-width="13" d="M22 17L22 17"/>
+<path class="s" fill="none" stroke-width="12" d="M31 28L31 28"/>
+<path class="cr ds" d="M-34 62L36 62"/>
+</g>
+</defs>
+<rect width="3000" height="2405" fill="#FAFAF7"/>
+<text x="48" y="98" class="h1">12경맥 오수혈 한눈에 보기</text>
+<text x="48" y="148" class="lead">표는 맨 위가 5합(팔꿈치·무릎), 맨 아래가 1정(손발끝)으로, 그림의 위아래와 같은 방향입니다. 그림의 동그라미 숫자가 표의 번호이고, 색은 경맥입니다(장·부 짝은 같은 색).</text>
+<text x="48" y="184" class="lead">오행 — 음경: 1 목 → 2 화 → 3 토 → 4 금 → 5 수 · 양경: 1 금 → 2 수 → 3 목 → 4 화 → 5 토</text>
+<rect x="48" y="236" width="1432" height="1030" rx="22" class="bk"/>
+<text x="70" y="288" class="h2">수음경</text>
+<text x="174" y="288" class="h2s">폐 · 심포 · 심 | 오른팔 손바닥 쪽</text>
+<rect x="246" y="308" width="282.7" height="62" rx="10" fill="#5B9BD8"/>
+<text x="387.3" y="335" class="hd" fill="#fff">수태음폐경</text>
+<text x="387.3" y="357" class="hs" fill="#fff">엄지에서 시작</text>
+<rect x="533.7" y="308" width="282.7" height="62" rx="10" fill="#9B7FD4"/>
+<text x="675" y="335" class="hd" fill="#fff">수궐음심포경</text>
+<text x="675" y="357" class="hs" fill="#fff">가운뎃손가락에서 시작</text>
+<rect x="821.3" y="308" width="282.7" height="62" rx="10" fill="#E07A72"/>
+<text x="962.7" y="335" class="hd" fill="#fff">수소음심경</text>
+<text x="962.7" y="357" class="hs" fill="#fff">새끼손가락에서 시작</text>
+<rect x="70" y="308" width="96" height="62" rx="10" fill="#D5DEE3"/>
+<text x="118" y="348" class="hd" fill="#37474F">번호</text>
+<rect x="171" y="308" width="70" height="62" rx="10" fill="#D5DEE3"/>
+<text x="206" y="348" class="hd" fill="#37474F">오행</text>
+<rect x="70" y="375" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="97" cy="459.9" r="16" fill="#37474F"/>
+<text x="97" y="465.9" class="nb">5</text>
+<text x="125" y="468.9" class="nt">합</text>
+<rect x="171" y="375" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="180" y="439.9" width="52" height="40" rx="9" fill="#8DBBE8"/>
+<text x="206" y="469.9" class="el">수</text>
+<rect x="246" y="375" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="262" y="443.9" class="cn" fill="#174A85">척택</text>
+<text x="332" y="443.9" class="cc">LU5</text>
+<text x="262" y="477.9" class="cd">팔꿈치 주름, 엄지 쪽</text>
+<text x="262" y="504.9" class="cd">힘줄 옆</text>
+<rect x="533.7" y="375" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="549.7" y="443.9" class="cn" fill="#4A2D85">곡택</text>
+<text x="619.7" y="443.9" class="cc">PC3</text>
+<text x="549.7" y="477.9" class="cd">팔꿈치 주름, 새끼 쪽</text>
+<text x="549.7" y="504.9" class="cd">힘줄 옆</text>
+<rect x="821.3" y="375" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="837.3" y="443.9" class="cn" fill="#8E2A24">소해</text>
+<text x="907.3" y="443.9" class="cc">HT3</text>
+<text x="837.3" y="477.9" class="cd">팔꿈치 주름 안쪽(새끼</text>
+<text x="837.3" y="504.9" class="cd">쪽) 끝</text>
+<rect x="70" y="549.8" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="97" cy="634.7" r="16" fill="#37474F"/>
+<text x="97" y="640.7" class="nb">4</text>
+<text x="125" y="643.7" class="nt">경</text>
+<rect x="171" y="549.8" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="180" y="614.7" width="52" height="40" rx="9" fill="#A9B8C1"/>
+<text x="206" y="644.7" class="el">금</text>
+<rect x="246" y="549.8" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="262" y="632.2" class="cn" fill="#174A85">경거</text>
+<text x="332" y="632.2" class="cc">LU8</text>
+<text x="262" y="666.2" class="cd">손목 주름 위 1촌</text>
+<rect x="533.7" y="549.8" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="549.7" y="632.2" class="cn" fill="#4A2D85">간사</text>
+<text x="619.7" y="632.2" class="cc">PC5</text>
+<text x="549.7" y="666.2" class="cd">손목 주름 위 3촌</text>
+<rect x="821.3" y="549.8" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="837.3" y="632.2" class="cn" fill="#8E2A24">영도</text>
+<text x="907.3" y="632.2" class="cc">HT4</text>
+<text x="837.3" y="666.2" class="cd">손목 주름 위 1.5촌</text>
+<rect x="70" y="724.6" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="97" cy="809.5" r="16" fill="#37474F"/>
+<text x="97" y="815.5" class="nb">3</text>
+<text x="125" y="818.5" class="nt">수</text>
+<rect x="171" y="724.6" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="180" y="789.5" width="52" height="40" rx="9" fill="#E8B960"/>
+<text x="206" y="819.5" class="el">토</text>
+<rect x="246" y="724.6" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="262" y="793.5" class="cn" fill="#174A85">태연</text>
+<text x="332" y="793.5" class="cc">LU9</text>
+<text x="262" y="827.5" class="cd">손목 주름, 맥 뛰는</text>
+<text x="262" y="854.5" class="cd">곳</text>
+<rect x="533.7" y="724.6" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="549.7" y="807" class="cn" fill="#4A2D85">대릉</text>
+<text x="619.7" y="807" class="cc">PC7</text>
+<text x="549.7" y="841" class="cd">손목 주름 가운데</text>
+<rect x="821.3" y="724.6" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="837.3" y="793.5" class="cn" fill="#8E2A24">신문</text>
+<text x="907.3" y="793.5" class="cc">HT7</text>
+<text x="837.3" y="827.5" class="cd">손목 주름, 새끼 쪽</text>
+<text x="837.3" y="854.5" class="cd">끝</text>
+<rect x="70" y="899.4" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="97" cy="984.3" r="16" fill="#37474F"/>
+<text x="97" y="990.3" class="nb">2</text>
+<text x="125" y="993.3" class="nt">형</text>
+<rect x="171" y="899.4" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="180" y="964.3" width="52" height="40" rx="9" fill="#EE9A93"/>
+<text x="206" y="994.3" class="el">화</text>
+<rect x="246" y="899.4" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="262" y="968.3" class="cn" fill="#174A85">어제</text>
+<text x="332" y="968.3" class="cc">LU10</text>
+<text x="262" y="1002.3" class="cd">엄지 아래 불룩한 곳</text>
+<text x="262" y="1029.3" class="cd">가운데</text>
+<rect x="533.7" y="899.4" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="549.7" y="968.3" class="cn" fill="#4A2D85">노궁</text>
+<text x="619.7" y="968.3" class="cc">PC8</text>
+<text x="549.7" y="1002.3" class="cd">주먹 쥘 때 중지 끝</text>
+<text x="549.7" y="1029.3" class="cd">닿는 곳</text>
+<rect x="821.3" y="899.4" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="837.3" y="968.3" class="cn" fill="#8E2A24">소부</text>
+<text x="907.3" y="968.3" class="cc">HT8</text>
+<text x="837.3" y="1002.3" class="cd">주먹 쥘 때 새끼 끝</text>
+<text x="837.3" y="1029.3" class="cd">닿는 곳</text>
+<rect x="70" y="1074.2" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="97" cy="1159.1" r="16" fill="#37474F"/>
+<text x="97" y="1165.1" class="nb">1</text>
+<text x="125" y="1168.1" class="nt">정</text>
+<rect x="171" y="1074.2" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="180" y="1139.1" width="52" height="40" rx="9" fill="#8CC893"/>
+<text x="206" y="1169.1" class="el">목</text>
+<rect x="246" y="1074.2" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="262" y="1156.6" class="cn" fill="#174A85">소상</text>
+<text x="332" y="1156.6" class="cc">LU11</text>
+<text x="262" y="1190.6" class="cd">엄지 안쪽 손톱 모서리</text>
+<rect x="533.7" y="1074.2" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="549.7" y="1156.6" class="cn" fill="#4A2D85">중충</text>
+<text x="619.7" y="1156.6" class="cc">PC9</text>
+<text x="549.7" y="1190.6" class="cd">가운뎃손가락 끝</text>
+<rect x="821.3" y="1074.2" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="837.3" y="1143.1" class="cn" fill="#8E2A24">소충</text>
+<text x="907.3" y="1143.1" class="cc">HT9</text>
+<text x="837.3" y="1177.1" class="cd">새끼손가락 엄지 쪽</text>
+<text x="837.3" y="1204.1" class="cd">손톱 모서리</text>
+<g transform="translate(1126,258)">
+<svg x="0" y="36" width="328.5" height="252" viewBox="-90 0 146 112" overflow="hidden">
+<use href="#arm_v"/>
+</svg>
+<svg x="0" y="348" width="328.5" height="634.5" viewBox="-90 246 146 282" overflow="hidden">
+<use href="#arm_v"/>
+</svg>
+<rect x="0" y="6" width="63" height="24" rx="12" class="cp"/>
+<text x="10" y="24" class="ct">팔꿈치</text>
+<rect x="0" y="318" width="138" height="24" rx="12" class="cp"/>
+<text x="10" y="336" class="ct">손목 · 손바닥</text>
+<circle cx="22.5" cy="762" r="15" fill="#5B9BD8" class="mk"/>
+<text x="22.5" y="767.5" font-size="16" class="mt">1</text>
+<circle cx="105.8" cy="631.5" r="15" fill="#5B9BD8" class="mk"/>
+<text x="105.8" y="637" font-size="16" class="mt">2</text>
+<circle cx="157.5" cy="537" r="15" fill="#5B9BD8" class="mk"/>
+<text x="157.5" y="542.5" font-size="16" class="mt">3</text>
+<circle cx="159.8" cy="487.5" r="15" fill="#5B9BD8" class="mk"/>
+<text x="159.8" y="493.1" font-size="16" class="mt">4</text>
+<circle cx="164.2" cy="193.5" r="15" fill="#5B9BD8" class="mk"/>
+<text x="164.2" y="199.1" font-size="16" class="mt">5</text>
+<circle cx="180" cy="935.2" r="15" fill="#9B7FD4" class="mk"/>
+<text x="180" y="940.8" font-size="16" class="mt">1</text>
+<circle cx="157.5" cy="672" r="15" fill="#9B7FD4" class="mk"/>
+<text x="157.5" y="677.5" font-size="16" class="mt">2</text>
+<circle cx="202.5" cy="537" r="15" fill="#9B7FD4" class="mk"/>
+<text x="202.5" y="542.5" font-size="16" class="mt">3</text>
+<circle cx="198" cy="390.8" r="15" fill="#9B7FD4" class="mk"/>
+<text x="198" y="396.3" font-size="16" class="mt">4</text>
+<circle cx="218.2" cy="195.8" r="15" fill="#9B7FD4" class="mk"/>
+<text x="218.2" y="201.3" font-size="16" class="mt">5</text>
+<circle cx="265.5" cy="872.2" r="15" fill="#E07A72" class="mk"/>
+<text x="265.5" y="877.8" font-size="16" class="mt">1</text>
+<circle cx="247.5" cy="676.5" r="15" fill="#E07A72" class="mk"/>
+<text x="247.5" y="682" font-size="16" class="mt">2</text>
+<circle cx="252" cy="537" r="15" fill="#E07A72" class="mk"/>
+<text x="252" y="542.5" font-size="16" class="mt">3</text>
+<circle cx="247.5" cy="462.8" r="15" fill="#E07A72" class="mk"/>
+<text x="247.5" y="468.3" font-size="16" class="mt">4</text>
+<circle cx="292.5" cy="198" r="15" fill="#E07A72" class="mk"/>
+<text x="292.5" y="203.6" font-size="16" class="mt">5</text>
+</g>
+<rect x="1520" y="236" width="1432" height="1030" rx="22" class="bk"/>
+<text x="1896" y="288" class="h2">수양경</text>
+<text x="2000" y="288" class="h2s">소장 · 삼초 · 대장 | 오른팔 손등 쪽</text>
+<rect x="1896" y="308" width="282.7" height="62" rx="10" fill="#E07A72"/>
+<text x="2037.3" y="335" class="hd" fill="#fff">수태양소장경</text>
+<text x="2037.3" y="357" class="hs" fill="#fff">새끼손가락에서 시작</text>
+<rect x="2183.7" y="308" width="282.7" height="62" rx="10" fill="#9B7FD4"/>
+<text x="2325" y="335" class="hd" fill="#fff">수소양삼초경</text>
+<text x="2325" y="357" class="hs" fill="#fff">약손가락에서 시작</text>
+<rect x="2471.3" y="308" width="282.7" height="62" rx="10" fill="#5B9BD8"/>
+<text x="2612.7" y="335" class="hd" fill="#fff">수양명대장경</text>
+<text x="2612.7" y="357" class="hs" fill="#fff">집게손가락에서 시작</text>
+<rect x="2834" y="308" width="96" height="62" rx="10" fill="#D5DEE3"/>
+<text x="2882" y="348" class="hd" fill="#37474F">번호</text>
+<rect x="2759" y="308" width="70" height="62" rx="10" fill="#D5DEE3"/>
+<text x="2794" y="348" class="hd" fill="#37474F">오행</text>
+<rect x="2834" y="375" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="2861" cy="459.9" r="16" fill="#37474F"/>
+<text x="2861" y="465.9" class="nb">5</text>
+<text x="2889" y="468.9" class="nt">합</text>
+<rect x="2759" y="375" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="2768" y="439.9" width="52" height="40" rx="9" fill="#E8B960"/>
+<text x="2794" y="469.9" class="el">토</text>
+<rect x="1896" y="375" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="1912" y="443.9" class="cn" fill="#8E2A24">소해</text>
+<text x="1982" y="443.9" class="cc">SI8</text>
+<text x="1912" y="477.9" class="cd">팔꿈치 뼈 끝과 안쪽</text>
+<text x="1912" y="504.9" class="cd">뼈 사이</text>
+<rect x="2183.7" y="375" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="2199.7" y="457.4" class="cn" fill="#4A2D85">천정</text>
+<text x="2269.7" y="457.4" class="cc">TE10</text>
+<text x="2199.7" y="491.4" class="cd">팔꿈치 뼈 끝 위 1촌</text>
+<rect x="2471.3" y="375" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="2487.3" y="443.9" class="cn" fill="#174A85">곡지</text>
+<text x="2557.3" y="443.9" class="cc">LI11</text>
+<text x="2487.3" y="477.9" class="cd">팔꿈치 바깥(엄지 쪽)</text>
+<text x="2487.3" y="504.9" class="cd">주름 끝</text>
+<rect x="2834" y="549.8" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="2861" cy="634.7" r="16" fill="#37474F"/>
+<text x="2861" y="640.7" class="nb">4</text>
+<text x="2889" y="643.7" class="nt">경</text>
+<rect x="2759" y="549.8" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="2768" y="614.7" width="52" height="40" rx="9" fill="#EE9A93"/>
+<text x="2794" y="644.7" class="el">화</text>
+<rect x="1896" y="549.8" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="1912" y="618.7" class="cn" fill="#8E2A24">양곡</text>
+<text x="1982" y="618.7" class="cc">SI5</text>
+<text x="1912" y="652.7" class="cd">손목 새끼 쪽 튀어나온</text>
+<text x="1912" y="679.7" class="cd">뼈 옆 오목</text>
+<rect x="2183.7" y="549.8" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="2199.7" y="618.7" class="cn" fill="#4A2D85">지구</text>
+<text x="2269.7" y="618.7" class="cc">TE6</text>
+<text x="2199.7" y="652.7" class="cd">손목 등쪽 주름 위</text>
+<text x="2199.7" y="679.7" class="cd">3촌</text>
+<rect x="2471.3" y="549.8" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="2487.3" y="618.7" class="cn" fill="#174A85">양계</text>
+<text x="2557.3" y="618.7" class="cc">LI5</text>
+<text x="2487.3" y="652.7" class="cd">손목 엄지 쪽 오목한</text>
+<text x="2487.3" y="679.7" class="cd">곳</text>
+<rect x="2834" y="724.6" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="2861" cy="809.5" r="16" fill="#37474F"/>
+<text x="2861" y="815.5" class="nb">3</text>
+<text x="2889" y="818.5" class="nt">수</text>
+<rect x="2759" y="724.6" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="2768" y="789.5" width="52" height="40" rx="9" fill="#8CC893"/>
+<text x="2794" y="819.5" class="el">목</text>
+<rect x="1896" y="724.6" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="1912" y="793.5" class="cn" fill="#8E2A24">후계</text>
+<text x="1982" y="793.5" class="cc">SI3</text>
+<text x="1912" y="827.5" class="cd">새끼 뿌리 관절 뒤,</text>
+<text x="1912" y="854.5" class="cd">바깥</text>
+<rect x="2183.7" y="724.6" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="2199.7" y="793.5" class="cn" fill="#4A2D85">중저</text>
+<text x="2269.7" y="793.5" class="cc">TE3</text>
+<text x="2199.7" y="827.5" class="cd">손등, 약지 뿌리 관절</text>
+<text x="2199.7" y="854.5" class="cd">뒤</text>
+<rect x="2471.3" y="724.6" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="2487.3" y="793.5" class="cn" fill="#174A85">삼간</text>
+<text x="2557.3" y="793.5" class="cc">LI3</text>
+<text x="2487.3" y="827.5" class="cd">검지 뿌리 관절 뒤,</text>
+<text x="2487.3" y="854.5" class="cd">엄지 쪽</text>
+<rect x="2834" y="899.4" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="2861" cy="984.3" r="16" fill="#37474F"/>
+<text x="2861" y="990.3" class="nb">2</text>
+<text x="2889" y="993.3" class="nt">형</text>
+<rect x="2759" y="899.4" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="2768" y="964.3" width="52" height="40" rx="9" fill="#8DBBE8"/>
+<text x="2794" y="994.3" class="el">수</text>
+<rect x="1896" y="899.4" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="1912" y="968.3" class="cn" fill="#8E2A24">전곡</text>
+<text x="1982" y="968.3" class="cc">SI2</text>
+<text x="1912" y="1002.3" class="cd">새끼 뿌리 관절 앞,</text>
+<text x="1912" y="1029.3" class="cd">바깥</text>
+<rect x="2183.7" y="899.4" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="2199.7" y="968.3" class="cn" fill="#4A2D85">액문</text>
+<text x="2269.7" y="968.3" class="cc">TE2</text>
+<text x="2199.7" y="1002.3" class="cd">약지·새끼 사이 갈퀴</text>
+<text x="2199.7" y="1029.3" class="cd">뒤</text>
+<rect x="2471.3" y="899.4" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="2487.3" y="968.3" class="cn" fill="#174A85">이간</text>
+<text x="2557.3" y="968.3" class="cc">LI2</text>
+<text x="2487.3" y="1002.3" class="cd">검지 뿌리 관절 앞,</text>
+<text x="2487.3" y="1029.3" class="cd">엄지 쪽</text>
+<rect x="2834" y="1074.2" width="96" height="169.8" rx="10" class="nc"/>
+<circle cx="2861" cy="1159.1" r="16" fill="#37474F"/>
+<text x="2861" y="1165.1" class="nb">1</text>
+<text x="2889" y="1168.1" class="nt">정</text>
+<rect x="2759" y="1074.2" width="70" height="169.8" rx="10" class="nc"/>
+<rect x="2768" y="1139.1" width="52" height="40" rx="9" fill="#A9B8C1"/>
+<text x="2794" y="1169.1" class="el">금</text>
+<rect x="1896" y="1074.2" width="282.7" height="169.8" rx="10" fill="#F8D3CF"/>
+<text x="1912" y="1143.1" class="cn" fill="#8E2A24">소택</text>
+<text x="1982" y="1143.1" class="cc">SI1</text>
+<text x="1912" y="1177.1" class="cd">새끼 바깥쪽 손톱</text>
+<text x="1912" y="1204.1" class="cd">모서리</text>
+<rect x="2183.7" y="1074.2" width="282.7" height="169.8" rx="10" fill="#E0D4F5"/>
+<text x="2199.7" y="1143.1" class="cn" fill="#4A2D85">관충</text>
+<text x="2269.7" y="1143.1" class="cc">TE1</text>
+<text x="2199.7" y="1177.1" class="cd">약지 새끼 쪽 손톱</text>
+<text x="2199.7" y="1204.1" class="cd">모서리</text>
+<rect x="2471.3" y="1074.2" width="282.7" height="169.8" rx="10" fill="#C6DDF6"/>
+<text x="2487.3" y="1143.1" class="cn" fill="#174A85">상양</text>
+<text x="2557.3" y="1143.1" class="cc">LI1</text>
+<text x="2487.3" y="1177.1" class="cd">검지 엄지 쪽 손톱</text>
+<text x="2487.3" y="1204.1" class="cd">모서리</text>
+<g transform="translate(1542,258)">
+<svg x="0" y="36" width="328.5" height="252" viewBox="-90 0 146 112" overflow="hidden">
+<g transform="translate(-34,0) scale(-1,1)">
+<use href="#arm_d"/>
+</g>
+</svg>
+<svg x="0" y="348" width="328.5" height="634.5" viewBox="-90 246 146 282" overflow="hidden">
+<g transform="translate(-34,0) scale(-1,1)">
+<use href="#arm_d"/>
+</g>
+</svg>
+<rect x="0" y="6" width="63" height="24" rx="12" class="cp"/>
+<text x="10" y="24" class="ct">팔꿈치</text>
+<rect x="0" y="318" width="123" height="24" rx="12" class="cp"/>
+<text x="10" y="336" class="ct">손목 · 손등</text>
+<circle cx="31.5" cy="870" r="15" fill="#E07A72" class="mk"/>
+<text x="31.5" y="875.5" font-size="16" class="mt">1</text>
+<circle cx="31.5" cy="766.5" r="15" fill="#E07A72" class="mk"/>
+<text x="31.5" y="772" font-size="16" class="mt">2</text>
+<circle cx="27" cy="712.5" r="15" fill="#E07A72" class="mk"/>
+<text x="27" y="718" font-size="16" class="mt">3</text>
+<circle cx="63" cy="552.8" r="15" fill="#E07A72" class="mk"/>
+<text x="63" y="558.3" font-size="16" class="mt">4</text>
+<circle cx="40.5" cy="207" r="15" fill="#E07A72" class="mk"/>
+<text x="40.5" y="212.6" font-size="16" class="mt">5</text>
+<circle cx="78.8" cy="912.8" r="15" fill="#9B7FD4" class="mk"/>
+<text x="78.8" y="918.3" font-size="16" class="mt">1</text>
+<circle cx="78.8" cy="759.8" r="15" fill="#9B7FD4" class="mk"/>
+<text x="78.8" y="765.3" font-size="16" class="mt">2</text>
+<circle cx="81" cy="708" r="15" fill="#9B7FD4" class="mk"/>
+<text x="81" y="713.5" font-size="16" class="mt">3</text>
+<circle cx="126" cy="390.8" r="15" fill="#9B7FD4" class="mk"/>
+<text x="126" y="396.3" font-size="16" class="mt">4</text>
+<circle cx="99" cy="162" r="15" fill="#9B7FD4" class="mk"/>
+<text x="99" y="167.6" font-size="16" class="mt">5</text>
+<circle cx="216" cy="906" r="15" fill="#5B9BD8" class="mk"/>
+<text x="216" y="911.5" font-size="16" class="mt">1</text>
+<circle cx="218.2" cy="766.5" r="15" fill="#5B9BD8" class="mk"/>
+<text x="218.2" y="772" font-size="16" class="mt">2</text>
+<circle cx="222.8" cy="712.5" r="15" fill="#5B9BD8" class="mk"/>
+<text x="222.8" y="718" font-size="16" class="mt">3</text>
+<circle cx="184.5" cy="552.8" r="15" fill="#5B9BD8" class="mk"/>
+<text x="184.5" y="558.3" font-size="16" class="mt">4</text>
+<circle cx="220.5" cy="207" r="15" fill="#5B9BD8" class="mk"/>
+<text x="220.5" y="212.6" font-size="16" class="mt">5</text>
+</g>
+<rect x="48" y="1306" width="1432" height="1015" rx="22" class="bk"/>
+<text x="70" y="1358" class="h2">족음경</text>
+<text x="174" y="1358" class="h2s">비 · 간 · 신 | 오른다리 안쪽 · 발등 · 발바닥</text>
+<rect x="246" y="1378" width="245" height="62" rx="10" fill="#D9A23A"/>
+<text x="368.5" y="1405" class="hd" fill="#fff">족태음비경</text>
+<text x="368.5" y="1427" class="hs" fill="#fff">엄지발가락 안쪽에서 시작</text>
+<rect x="496" y="1378" width="245" height="62" rx="10" fill="#5FAF6A"/>
+<text x="618.5" y="1405" class="hd" fill="#fff">족궐음간경</text>
+<text x="618.5" y="1427" class="hs" fill="#fff">엄지발가락 바깥쪽에서 시작</text>
+<rect x="746" y="1378" width="245" height="62" rx="10" fill="#3FA3A0"/>
+<text x="868.5" y="1405" class="hd" fill="#fff">족소음신경</text>
+<text x="868.5" y="1427" class="hs" fill="#fff">발바닥에서 시작</text>
+<rect x="70" y="1378" width="96" height="62" rx="10" fill="#D5DEE3"/>
+<text x="118" y="1418" class="hd" fill="#37474F">번호</text>
+<rect x="171" y="1378" width="70" height="62" rx="10" fill="#D5DEE3"/>
+<text x="206" y="1418" class="hd" fill="#37474F">오행</text>
+<rect x="70" y="1445" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="97" cy="1528.4" r="16" fill="#37474F"/>
+<text x="97" y="1534.4" class="nb">5</text>
+<text x="125" y="1537.4" class="nt">합</text>
+<rect x="171" y="1445" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="180" y="1508.4" width="52" height="40" rx="9" fill="#8DBBE8"/>
+<text x="206" y="1538.4" class="el">수</text>
+<rect x="246" y="1445" width="245" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="262" y="1512.4" class="cn" fill="#7A4A00">음릉천</text>
+<text x="362" y="1512.4" class="cc">SP9</text>
+<text x="262" y="1546.4" class="cd">정강이뼈 안쪽</text>
+<text x="262" y="1573.4" class="cd">관절융기 아래 오목</text>
+<rect x="496" y="1445" width="245" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="512" y="1512.4" class="cn" fill="#1F5E25">곡천</text>
+<text x="582" y="1512.4" class="cc">LR8</text>
+<text x="512" y="1546.4" class="cd">무릎 굽힌 오금</text>
+<text x="512" y="1573.4" class="cd">주름 안쪽 끝</text>
+<rect x="746" y="1445" width="245" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="762" y="1498.9" class="cn" fill="#14534F">음곡</text>
+<text x="832" y="1498.9" class="cc">KI10</text>
+<text x="762" y="1532.9" class="cd">무릎 뒤 주름</text>
+<text x="762" y="1559.9" class="cd">안쪽, 두 힘줄</text>
+<text x="762" y="1586.9" class="cd">사이</text>
+<rect x="70" y="1616.8" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="97" cy="1700.2" r="16" fill="#37474F"/>
+<text x="97" y="1706.2" class="nb">4</text>
+<text x="125" y="1709.2" class="nt">경</text>
+<rect x="171" y="1616.8" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="180" y="1680.2" width="52" height="40" rx="9" fill="#A9B8C1"/>
+<text x="206" y="1710.2" class="el">금</text>
+<rect x="246" y="1616.8" width="245" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="262" y="1684.2" class="cn" fill="#7A4A00">상구</text>
+<text x="332" y="1684.2" class="cc">SP5</text>
+<text x="262" y="1718.2" class="cd">안쪽 복사뼈 앞아래</text>
+<text x="262" y="1745.2" class="cd">오목</text>
+<rect x="496" y="1616.8" width="245" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="512" y="1684.2" class="cn" fill="#1F5E25">중봉</text>
+<text x="582" y="1684.2" class="cc">LR4</text>
+<text x="512" y="1718.2" class="cd">안쪽 복사뼈 앞</text>
+<text x="512" y="1745.2" class="cd">오목</text>
+<rect x="746" y="1616.8" width="245" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="762" y="1684.2" class="cn" fill="#14534F">복류</text>
+<text x="832" y="1684.2" class="cc">KI7</text>
+<text x="762" y="1718.2" class="cd">태계 위 2촌,</text>
+<text x="762" y="1745.2" class="cd">아킬레스건 앞</text>
+<rect x="70" y="1788.6" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="97" cy="1872" r="16" fill="#37474F"/>
+<text x="97" y="1878" class="nb">3</text>
+<text x="125" y="1881" class="nt">수</text>
+<rect x="171" y="1788.6" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="180" y="1852" width="52" height="40" rx="9" fill="#E8B960"/>
+<text x="206" y="1882" class="el">토</text>
+<rect x="246" y="1788.6" width="245" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="262" y="1856" class="cn" fill="#7A4A00">태백</text>
+<text x="332" y="1856" class="cc">SP3</text>
+<text x="262" y="1890" class="cd">엄지발가락 뿌리</text>
+<text x="262" y="1917" class="cd">관절 뒤, 안쪽</text>
+<rect x="496" y="1788.6" width="245" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="512" y="1856" class="cn" fill="#1F5E25">태충</text>
+<text x="582" y="1856" class="cc">LR3</text>
+<text x="512" y="1890" class="cd">엄지·둘째 발허리뼈</text>
+<text x="512" y="1917" class="cd">사이 오목</text>
+<rect x="746" y="1788.6" width="245" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="762" y="1856" class="cn" fill="#14534F">태계</text>
+<text x="832" y="1856" class="cc">KI3</text>
+<text x="762" y="1890" class="cd">안쪽 복사뼈와</text>
+<text x="762" y="1917" class="cd">아킬레스건 사이</text>
+<rect x="70" y="1960.4" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="97" cy="2043.8" r="16" fill="#37474F"/>
+<text x="97" y="2049.8" class="nb">2</text>
+<text x="125" y="2052.8" class="nt">형</text>
+<rect x="171" y="1960.4" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="180" y="2023.8" width="52" height="40" rx="9" fill="#EE9A93"/>
+<text x="206" y="2053.8" class="el">화</text>
+<rect x="246" y="1960.4" width="245" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="262" y="2027.8" class="cn" fill="#7A4A00">대도</text>
+<text x="332" y="2027.8" class="cc">SP2</text>
+<text x="262" y="2061.8" class="cd">엄지발가락 뿌리</text>
+<text x="262" y="2088.8" class="cd">관절 앞, 안쪽</text>
+<rect x="496" y="1960.4" width="245" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="512" y="2027.8" class="cn" fill="#1F5E25">행간</text>
+<text x="582" y="2027.8" class="cc">LR2</text>
+<text x="512" y="2061.8" class="cd">엄지·둘째 발가락</text>
+<text x="512" y="2088.8" class="cd">사이 갈퀴 뒤</text>
+<rect x="746" y="1960.4" width="245" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="762" y="2027.8" class="cn" fill="#14534F">연곡</text>
+<text x="832" y="2027.8" class="cc">KI2</text>
+<text x="762" y="2061.8" class="cd">발 안쪽 주상골</text>
+<text x="762" y="2088.8" class="cd">아래</text>
+<rect x="70" y="2132.2" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="97" cy="2215.6" r="16" fill="#37474F"/>
+<text x="97" y="2221.6" class="nb">1</text>
+<text x="125" y="2224.6" class="nt">정</text>
+<rect x="171" y="2132.2" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="180" y="2195.6" width="52" height="40" rx="9" fill="#8CC893"/>
+<text x="206" y="2225.6" class="el">목</text>
+<rect x="246" y="2132.2" width="245" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="262" y="2199.6" class="cn" fill="#7A4A00">은백</text>
+<text x="332" y="2199.6" class="cc">SP1</text>
+<text x="262" y="2233.6" class="cd">엄지발가락 안쪽</text>
+<text x="262" y="2260.6" class="cd">발톱 모서리</text>
+<rect x="496" y="2132.2" width="245" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="512" y="2186.1" class="cn" fill="#1F5E25">대돈</text>
+<text x="582" y="2186.1" class="cc">LR1</text>
+<text x="512" y="2220.1" class="cd">엄지발가락</text>
+<text x="512" y="2247.1" class="cd">바깥(둘째 쪽)</text>
+<text x="512" y="2274.1" class="cd">발톱 모서리</text>
+<rect x="746" y="2132.2" width="245" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="762" y="2186.1" class="cn" fill="#14534F">용천</text>
+<text x="832" y="2186.1" class="cc">KI1</text>
+<text x="762" y="2220.1" class="cd">발바닥 앞 1/3,</text>
+<text x="762" y="2247.1" class="cd">발가락 굽히면</text>
+<text x="762" y="2274.1" class="cd">오목한 곳</text>
+<g transform="translate(1013,1328)">
+<svg x="70" y="36" width="297.5" height="227.5" viewBox="110 -20 170 130" overflow="hidden">
+<use href="#med"/>
+</svg>
+<svg x="0" y="323.5" width="441" height="353.5" viewBox="22 290 252 202" overflow="hidden">
+<use href="#med"/>
+</svg>
+<svg x="20" y="737" width="246.4" height="226.8" viewBox="100 430 176 162" overflow="hidden">
+<use href="#ant"/>
+</svg>
+<svg x="320" y="737" width="110.4" height="230" viewBox="-48 -10 96 200" overflow="hidden">
+<use href="#sole"/>
+</svg>
+<rect x="70" y="6" width="93" height="24" rx="12" class="cp"/>
+<text x="80" y="24" class="ct">무릎 안쪽</text>
+<rect x="0" y="293.5" width="153" height="24" rx="12" class="cp"/>
+<text x="10" y="311.5" class="ct">발목 · 발 안쪽</text>
+<rect x="20" y="707" width="48" height="24" rx="12" class="cp"/>
+<text x="30" y="725" class="ct">발등</text>
+<rect x="320" y="707" width="63" height="24" rx="12" class="cp"/>
+<text x="330" y="725" class="ct">발바닥</text>
+<circle cx="24.5" cy="608.8" r="13" fill="#D9A23A" class="mk"/>
+<text x="24.5" y="613.6" font-size="14" class="mt">1</text>
+<circle cx="64.8" cy="607" r="13" fill="#D9A23A" class="mk"/>
+<text x="64.8" y="611.8" font-size="14" class="mt">2</text>
+<circle cx="108.5" cy="600" r="13" fill="#D9A23A" class="mk"/>
+<text x="108.5" y="604.8" font-size="14" class="mt">3</text>
+<circle cx="229.2" cy="535.2" r="13" fill="#D9A23A" class="mk"/>
+<text x="229.2" y="540.1" font-size="14" class="mt">4</text>
+<circle cx="178.5" cy="172.5" r="13" fill="#D9A23A" class="mk"/>
+<text x="178.5" y="177.3" font-size="14" class="mt">5</text>
+<circle cx="178.2" cy="907.8" r="13" fill="#5FAF6A" class="mk"/>
+<text x="178.2" y="912.6" font-size="14" class="mt">1</text>
+<circle cx="169.8" cy="846.2" r="13" fill="#5FAF6A" class="mk"/>
+<text x="169.8" y="851" font-size="14" class="mt">2</text>
+<circle cx="171.2" cy="787.4" r="13" fill="#5FAF6A" class="mk"/>
+<text x="171.2" y="792.2" font-size="14" class="mt">3</text>
+<circle cx="210" cy="505.5" r="13" fill="#5FAF6A" class="mk"/>
+<text x="210" y="510.3" font-size="14" class="mt">4</text>
+<circle cx="273" cy="137.5" r="13" fill="#5FAF6A" class="mk"/>
+<text x="273" y="142.3" font-size="14" class="mt">5</text>
+<circle cx="379.8" cy="819.8" r="13" fill="#3FA3A0" class="mk"/>
+<text x="379.8" y="824.6" font-size="14" class="mt">1</text>
+<circle cx="168" cy="587.8" r="13" fill="#3FA3A0" class="mk"/>
+<text x="168" y="592.6" font-size="14" class="mt">2</text>
+<circle cx="306.2" cy="507.2" r="13" fill="#3FA3A0" class="mk"/>
+<text x="306.2" y="512.1" font-size="14" class="mt">3</text>
+<circle cx="323.8" cy="418" r="13" fill="#3FA3A0" class="mk"/>
+<text x="323.8" y="422.8" font-size="14" class="mt">4</text>
+<circle cx="299.2" cy="162" r="13" fill="#3FA3A0" class="mk"/>
+<text x="299.2" y="166.8" font-size="14" class="mt">5</text>
+</g>
+<rect x="1520" y="1306" width="1432" height="1015" rx="22" class="bk"/>
+<text x="2208" y="1358" class="h2">족양경</text>
+<text x="2312" y="1358" class="h2s">방광 · 담 · 위 | 오른다리 앞쪽 · 바깥쪽</text>
+<rect x="2208" y="1378" width="178.7" height="62" rx="10" fill="#3FA3A0"/>
+<text x="2297.3" y="1405" class="hd" fill="#fff">족태양방광경</text>
+<text x="2297.3" y="1427" class="hs" fill="#fff">새끼발가락에서 시작</text>
+<rect x="2391.7" y="1378" width="178.7" height="62" rx="10" fill="#5FAF6A"/>
+<text x="2481" y="1405" class="hd" fill="#fff">족소양담경</text>
+<text x="2481" y="1427" class="hs" fill="#fff">넷째 발가락에서 시작</text>
+<rect x="2575.3" y="1378" width="178.7" height="62" rx="10" fill="#D9A23A"/>
+<text x="2664.7" y="1405" class="hd" fill="#fff">족양명위경</text>
+<text x="2664.7" y="1427" class="hs" fill="#fff">둘째 발가락에서 시작</text>
+<rect x="2834" y="1378" width="96" height="62" rx="10" fill="#D5DEE3"/>
+<text x="2882" y="1418" class="hd" fill="#37474F">번호</text>
+<rect x="2759" y="1378" width="70" height="62" rx="10" fill="#D5DEE3"/>
+<text x="2794" y="1418" class="hd" fill="#37474F">오행</text>
+<rect x="2834" y="1445" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="2861" cy="1528.4" r="16" fill="#37474F"/>
+<text x="2861" y="1534.4" class="nb">5</text>
+<text x="2889" y="1537.4" class="nt">합</text>
+<rect x="2759" y="1445" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="2768" y="1508.4" width="52" height="40" rx="9" fill="#E8B960"/>
+<text x="2794" y="1538.4" class="el">토</text>
+<rect x="2208" y="1445" width="178.7" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="2224" y="1512.4" class="cn" fill="#14534F">위중</text>
+<text x="2294" y="1512.4" class="cc">BL40</text>
+<text x="2224" y="1546.4" class="cd">무릎 뒤 오금</text>
+<text x="2224" y="1573.4" class="cd">주름 가운데</text>
+<rect x="2391.7" y="1445" width="178.7" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="2407.7" y="1512.4" class="cn" fill="#1F5E25">양릉천</text>
+<text x="2507.7" y="1512.4" class="cc">GB34</text>
+<text x="2407.7" y="1546.4" class="cd">종아리뼈 머리</text>
+<text x="2407.7" y="1573.4" class="cd">앞아래 오목</text>
+<rect x="2575.3" y="1445" width="178.7" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="2591.3" y="1498.9" class="cn" fill="#7A4A00">족삼리</text>
+<text x="2691.3" y="1498.9" class="cc">ST36</text>
+<text x="2591.3" y="1532.9" class="cd">무릎 아래</text>
+<text x="2591.3" y="1559.9" class="cd">3촌, 정강이뼈</text>
+<text x="2591.3" y="1586.9" class="cd">바깥</text>
+<rect x="2834" y="1616.8" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="2861" cy="1700.2" r="16" fill="#37474F"/>
+<text x="2861" y="1706.2" class="nb">4</text>
+<text x="2889" y="1709.2" class="nt">경</text>
+<rect x="2759" y="1616.8" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="2768" y="1680.2" width="52" height="40" rx="9" fill="#EE9A93"/>
+<text x="2794" y="1710.2" class="el">화</text>
+<rect x="2208" y="1616.8" width="178.7" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="2224" y="1684.2" class="cn" fill="#14534F">곤륜</text>
+<text x="2294" y="1684.2" class="cc">BL60</text>
+<text x="2224" y="1718.2" class="cd">바깥 복사뼈와</text>
+<text x="2224" y="1745.2" class="cd">아킬레스건 사이</text>
+<rect x="2391.7" y="1616.8" width="178.7" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="2407.7" y="1670.7" class="cn" fill="#1F5E25">양보</text>
+<text x="2477.7" y="1670.7" class="cc">GB38</text>
+<text x="2407.7" y="1704.7" class="cd">바깥 복사뼈 위</text>
+<text x="2407.7" y="1731.7" class="cd">4촌, 종아리뼈</text>
+<text x="2407.7" y="1758.7" class="cd">앞</text>
+<rect x="2575.3" y="1616.8" width="178.7" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="2591.3" y="1684.2" class="cn" fill="#7A4A00">해계</text>
+<text x="2661.3" y="1684.2" class="cc">ST41</text>
+<text x="2591.3" y="1718.2" class="cd">발목 앞 주름</text>
+<text x="2591.3" y="1745.2" class="cd">가운데</text>
+<rect x="2834" y="1788.6" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="2861" cy="1872" r="16" fill="#37474F"/>
+<text x="2861" y="1878" class="nb">3</text>
+<text x="2889" y="1881" class="nt">수</text>
+<rect x="2759" y="1788.6" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="2768" y="1852" width="52" height="40" rx="9" fill="#8CC893"/>
+<text x="2794" y="1882" class="el">목</text>
+<rect x="2208" y="1788.6" width="178.7" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="2224" y="1856" class="cn" fill="#14534F">속골</text>
+<text x="2294" y="1856" class="cc">BL65</text>
+<text x="2224" y="1890" class="cd">새끼발가락 뿌리</text>
+<text x="2224" y="1917" class="cd">관절 뒤</text>
+<rect x="2391.7" y="1788.6" width="178.7" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="2407.7" y="1842.5" class="cn" fill="#1F5E25">족임읍</text>
+<text x="2507.7" y="1842.5" class="cc">GB41</text>
+<text x="2407.7" y="1876.5" class="cd">넷째·다섯째</text>
+<text x="2407.7" y="1903.5" class="cd">발허리뼈 사이</text>
+<text x="2407.7" y="1930.5" class="cd">오목</text>
+<rect x="2575.3" y="1788.6" width="178.7" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="2591.3" y="1842.5" class="cn" fill="#7A4A00">함곡</text>
+<text x="2661.3" y="1842.5" class="cc">ST43</text>
+<text x="2591.3" y="1876.5" class="cd">둘째·셋째</text>
+<text x="2591.3" y="1903.5" class="cd">발허리뼈 사이</text>
+<text x="2591.3" y="1930.5" class="cd">오목</text>
+<rect x="2834" y="1960.4" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="2861" cy="2043.8" r="16" fill="#37474F"/>
+<text x="2861" y="2049.8" class="nb">2</text>
+<text x="2889" y="2052.8" class="nt">형</text>
+<rect x="2759" y="1960.4" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="2768" y="2023.8" width="52" height="40" rx="9" fill="#8DBBE8"/>
+<text x="2794" y="2053.8" class="el">수</text>
+<rect x="2208" y="1960.4" width="178.7" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="2224" y="2027.8" class="cn" fill="#14534F">족통곡</text>
+<text x="2324" y="2027.8" class="cc">BL66</text>
+<text x="2224" y="2061.8" class="cd">새끼발가락 뿌리</text>
+<text x="2224" y="2088.8" class="cd">관절 앞</text>
+<rect x="2391.7" y="1960.4" width="178.7" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="2407.7" y="2014.3" class="cn" fill="#1F5E25">협계</text>
+<text x="2477.7" y="2014.3" class="cc">GB43</text>
+<text x="2407.7" y="2048.3" class="cd">넷째·다섯째</text>
+<text x="2407.7" y="2075.3" class="cd">발가락 사이</text>
+<text x="2407.7" y="2102.3" class="cd">갈퀴 뒤</text>
+<rect x="2575.3" y="1960.4" width="178.7" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="2591.3" y="2014.3" class="cn" fill="#7A4A00">내정</text>
+<text x="2661.3" y="2014.3" class="cc">ST44</text>
+<text x="2591.3" y="2048.3" class="cd">둘째·셋째</text>
+<text x="2591.3" y="2075.3" class="cd">발가락 사이</text>
+<text x="2591.3" y="2102.3" class="cd">갈퀴 뒤</text>
+<rect x="2834" y="2132.2" width="96" height="166.8" rx="10" class="nc"/>
+<circle cx="2861" cy="2215.6" r="16" fill="#37474F"/>
+<text x="2861" y="2221.6" class="nb">1</text>
+<text x="2889" y="2224.6" class="nt">정</text>
+<rect x="2759" y="2132.2" width="70" height="166.8" rx="10" class="nc"/>
+<rect x="2768" y="2195.6" width="52" height="40" rx="9" fill="#A9B8C1"/>
+<text x="2794" y="2225.6" class="el">금</text>
+<rect x="2208" y="2132.2" width="178.7" height="166.8" rx="10" fill="#C8EAE8"/>
+<text x="2224" y="2199.6" class="cn" fill="#14534F">지음</text>
+<text x="2294" y="2199.6" class="cc">BL67</text>
+<text x="2224" y="2233.6" class="cd">새끼발가락 바깥</text>
+<text x="2224" y="2260.6" class="cd">발톱 모서리</text>
+<rect x="2391.7" y="2132.2" width="178.7" height="166.8" rx="10" fill="#CFEAD2"/>
+<text x="2407.7" y="2199.6" class="cn" fill="#1F5E25">족규음</text>
+<text x="2507.7" y="2199.6" class="cc">GB44</text>
+<text x="2407.7" y="2233.6" class="cd">넷째발가락 바깥</text>
+<text x="2407.7" y="2260.6" class="cd">발톱 모서리</text>
+<rect x="2575.3" y="2132.2" width="178.7" height="166.8" rx="10" fill="#F6E3B4"/>
+<text x="2591.3" y="2199.6" class="cn" fill="#7A4A00">여태</text>
+<text x="2661.3" y="2199.6" class="cc">ST45</text>
+<text x="2591.3" y="2233.6" class="cd">둘째발가락 바깥</text>
+<text x="2591.3" y="2260.6" class="cd">발톱 모서리</text>
+<g transform="translate(1542,1433)">
+<svg x="0" y="36" width="246.4" height="238" viewBox="100 -20 176 170" overflow="hidden">
+<use href="#ant"/>
+</svg>
+<svg x="280" y="36" width="238" height="182" viewBox="110 -20 170 130" overflow="hidden">
+<g transform="translate(390,0) scale(-1,1)">
+<use href="#lat"/>
+</g>
+</svg>
+<svg x="0" y="334" width="246.4" height="422.8" viewBox="100 290 176 302" overflow="hidden">
+<use href="#ant"/>
+</svg>
+<svg x="262" y="453.8" width="378" height="303" viewBox="22 290 252 202" overflow="hidden">
+<g transform="translate(296,0) scale(-1,1)">
+<use href="#lat"/>
+</g>
+</svg>
+<rect x="0" y="6" width="78" height="24" rx="12" class="cp"/>
+<text x="10" y="24" class="ct">무릎 앞</text>
+<rect x="280" y="6" width="153" height="24" rx="12" class="cp"/>
+<text x="290" y="24" class="ct">무릎 바깥(오금)</text>
+<rect x="0" y="304" width="123" height="24" rx="12" class="cp"/>
+<text x="10" y="322" class="ct">발목 · 발등</text>
+<rect x="262" y="423.8" width="168" height="24" rx="12" class="cp"/>
+<text x="272" y="441.8" class="ct">발목 · 발 바깥쪽</text>
+<circle cx="574" cy="710.3" r="13" fill="#3FA3A0" class="mk"/>
+<text x="574" y="715.1" font-size="14" class="mt">1</text>
+<circle cx="541" cy="698.3" r="13" fill="#3FA3A0" class="mk"/>
+<text x="541" y="703.1" font-size="14" class="mt">2</text>
+<circle cx="505" cy="692.3" r="13" fill="#3FA3A0" class="mk"/>
+<text x="505" y="697.1" font-size="14" class="mt">3</text>
+<circle cx="368.5" cy="615.8" r="13" fill="#3FA3A0" class="mk"/>
+<text x="368.5" y="620.6" font-size="14" class="mt">4</text>
+<circle cx="333.2" cy="136.8" r="13" fill="#3FA3A0" class="mk"/>
+<text x="333.2" y="141.6" font-size="14" class="mt">5</text>
+<circle cx="54.6" cy="678.4" r="13" fill="#5FAF6A" class="mk"/>
+<text x="54.6" y="683.2" font-size="14" class="mt">1</text>
+<circle cx="54.6" cy="639.2" r="13" fill="#5FAF6A" class="mk"/>
+<text x="54.6" y="644" font-size="14" class="mt">2</text>
+<circle cx="53.2" cy="580.4" r="13" fill="#5FAF6A" class="mk"/>
+<text x="53.2" y="585.2" font-size="14" class="mt">3</text>
+<circle cx="67.2" cy="370.4" r="13" fill="#5FAF6A" class="mk"/>
+<text x="67.2" y="375.2" font-size="14" class="mt">4</text>
+<circle cx="39.2" cy="181.6" r="13" fill="#5FAF6A" class="mk"/>
+<text x="39.2" y="186.4" font-size="14" class="mt">5</text>
+<circle cx="116.2" cy="714.8" r="13" fill="#D9A23A" class="mk"/>
+<text x="116.2" y="719.6" font-size="14" class="mt">1</text>
+<circle cx="112" cy="639.2" r="13" fill="#D9A23A" class="mk"/>
+<text x="112" y="644" font-size="14" class="mt">2</text>
+<circle cx="112" cy="583.2" r="13" fill="#D9A23A" class="mk"/>
+<text x="112" y="588" font-size="14" class="mt">3</text>
+<circle cx="128.8" cy="476.8" r="13" fill="#D9A23A" class="mk"/>
+<text x="128.8" y="481.6" font-size="14" class="mt">4</text>
+<circle cx="106.4" cy="212.4" r="13" fill="#D9A23A" class="mk"/>
+<text x="106.4" y="217.2" font-size="14" class="mt">5</text>
+</g>
+<text x="48" y="2343" class="ft">개략도입니다. 혈 위치는 교재와 『사암침법의 이해와 활용』 부록 1 사진으로 확인하세요. 1촌 ≈ 엄지 너비. 소해는 심경(음소해)과 소장경(양소해)에 같은 이름으로 있습니다.</text>
+<text x="48" y="2371" class="ft">그림에서 팔꿈치·무릎과 손목·발목 사이는 생략했습니다. 수양경·족양경 표는 가운데 그림을 기준으로 좌우를 뒤집어, 번호·오행 열이 바깥쪽에 오고 장·부 짝이 서로 마주 봅니다.</text>
+</svg>
