@@ -168,4 +168,35 @@
 <text x="56" y="1738" font-size="18" font-weight="700" fill="#1F2A33" text-anchor="start">六장 위·아래</text>
 <text x="250" y="1738" font-size="18" font-weight="400" fill="#3A454E" text-anchor="start">손(가슴): 심·폐·심포 / 발(배): 비·간·신  — 중요·보조는 내 기억용 메모</text>
 <text x="40" y="1786" font-size="15" font-weight="400" fill="#5B6870" text-anchor="start">근거: 『사암침법의 이해와 활용』 3·4·7장, 9.7절(상합·교상합, 99쪽). 한의학 이론 안의 분류를 암기용으로 정리한 개략도입니다.</text>
+<text x="284" y="392" font-size="17" font-weight="800" fill="#4B4F6B" text-anchor="end"><tspan fill="#0E9A73">목</tspan> → <tspan fill="#E1306C">화</tspan></text>
+<text x="284" y="414" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="end">나무가 타면서</text>
+<text x="284" y="434" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="end">불의 재료가 되어 줌</text>
+<text x="915" y="400" font-size="17" font-weight="800" fill="#4B4F6B" text-anchor="start"><tspan fill="#E1306C">화</tspan> → <tspan fill="#D97A00">토</tspan></text>
+<text x="915" y="422" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="start">불이 타고 남은 재가</text>
+<text x="915" y="442" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="start">쌓여 흙이 됨</text>
+<text x="965" y="742" font-size="17" font-weight="800" fill="#4B4F6B" text-anchor="start"><tspan fill="#D97A00">토</tspan> → <tspan fill="#6E58C9">금</tspan></text>
+<text x="965" y="764" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="start">흙 속에서 쇠(광물)가</text>
+<text x="965" y="784" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="start">나옴</text>
+<text x="600" y="1020" font-size="17" font-weight="800" fill="#4B4F6B" text-anchor="middle"><tspan fill="#6E58C9">금</tspan> → <tspan fill="#2D6BE4">수</tspan></text>
+<text x="600" y="1042" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="middle">바위·광맥에서</text>
+<text x="600" y="1062" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="middle">샘물이 솟음</text>
+<text x="238" y="732" font-size="17" font-weight="800" fill="#4B4F6B" text-anchor="end"><tspan fill="#2D6BE4">수</tspan> → <tspan fill="#0E9A73">목</tspan></text>
+<text x="238" y="754" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="end">물이 나무가 자라도록</text>
+<text x="238" y="774" font-size="15" font-weight="500" fill="#1F2A33" text-anchor="end">도와줌</text>
+<rect x="520.0" y="522" width="160" height="50" rx="12" fill="#FFFFFF" fill-opacity=".94" stroke="#E1306C" stroke-width="1.2"/>
+<text x="600" y="542" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">뿌리가 흙을 뚫고</text>
+<text x="600" y="562" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">양분을 빨아들임</text>
+<rect x="665.0" y="687" width="116" height="50" rx="12" fill="#FFFFFF" fill-opacity=".94" stroke="#E1306C" stroke-width="1.2"/>
+<text x="723" y="707" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">흙둑이 물을</text>
+<text x="723" y="727" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">막아 가둠</text>
+<rect x="489.0" y="461" width="104" height="50" rx="12" fill="#FFFFFF" fill-opacity=".94" stroke="#E1306C" stroke-width="1.2"/>
+<text x="541" y="481" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">물이 불을</text>
+<text x="541" y="501" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">꺼뜨림</text>
+<rect x="611.0" y="463" width="104" height="50" rx="12" fill="#FFFFFF" fill-opacity=".94" stroke="#E1306C" stroke-width="1.2"/>
+<text x="663" y="483" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">불이 쇠를</text>
+<text x="663" y="503" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">녹임</text>
+<rect x="418.0" y="686" width="116" height="50" rx="12" fill="#FFFFFF" fill-opacity=".94" stroke="#E1306C" stroke-width="1.2"/>
+<text x="476" y="706" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">쇠(도끼)가</text>
+<text x="476" y="726" font-size="14" font-weight="500" fill="#1F2A33" text-anchor="middle">나무를 벰</text>
+<text x="40" y="124" font-size="16" font-weight="400" fill="#5B6870" text-anchor="start">화살표 옆 한 줄 풀이는 자연 현상에 빗댄 전통 풀이로, 외우기 위한 것입니다(책에서 확인한 것은 아님).</text>
 </svg>
