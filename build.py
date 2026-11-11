@@ -6,7 +6,7 @@ TOTAL = 12
 FONTS = '<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Gowun+Batang:wght@400;700&family=IBM+Plex+Sans+KR:wght@400;600&display=swap" rel="stylesheet">'
 MERMAID = '<script type="module">import mermaid from "https://cdn.jsdelivr.net/npm/mermaid@10.9.1/dist/mermaid.esm.min.mjs";mermaid.initialize({startOnLoad:true,theme:matchMedia("(prefers-color-scheme: dark)").matches?"dark":"neutral",fontFamily:"IBM Plex Sans KR, sans-serif"});</script>'
 # 강의 계획 (모르는 회차는 '예정'으로 표시)
-PLAN = {2: "근육반응검사 심화와 8체질 검사의 기초", 3: "토양체질과 토음체질의 침법 보사 체계"}
+PLAN = {2: "근육반응검사 심화와 8체질 검사의 기초", 3: "토양체질과 토음체질의 침법 보사 체계", 4: "카이로프랙틱 톰슨테크닉 5유형과 골반·햄스트링 스포츠재활"}
 
 def head(title, css):
     return f'<!doctype html><html lang="ko"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><title>{html.escape(title)}</title>{FONTS}<link rel="stylesheet" href="{css}"></head><body>'
